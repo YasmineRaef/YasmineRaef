@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**YasmineRaef/YasmineRaef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Connect with me
+- [LinkedIn](www.linkedin.com/in/engyasminer)
+- [Handshake](https://app.joinhandshake.com/profiles/engyasminer)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my web class final project, wish me luck!
+- 📫 How to reach me:
+    ~ [Email](Yasmine.Mohamed@mail.citytech.cuny.edu)
+    ~ [Gmail](yasmineraef76@gmail.com)
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check Out my Resume here: [Yasmine R Mohamed](https://github.com/user-attachments/files/23407160/Yasmine_R_Mohamed_resume.pdf)
