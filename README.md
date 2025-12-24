@@ -12,7 +12,8 @@ I’ve been learning to code in:
 
 Currently, I’m exploring **Node.js** to build backend projects.
 
-I’m looking for a **tech internship** to grow my skills and bridge the gap between academic learning and real-world experience. I recently applied for the **CUNY Spring Forward internship**, had my interview, and I’m waiting to hear back 🤞. I’m also planning to join the **Honors Scholars Program** next semester — wish me luck! 😎✌️✨
+I’m looking for a **tech internship** to grow my skills and bridge the gap between academic learning and real-world experience. I was recently **accepted into the CUNY Spring Forward internship program** 🎉  
+I’m currently completing the onboarding paperwork, and once everything is finalized, I’ll share a full update here.😎✌️✨
 
 I love making tech easier to understand and enjoy using analogies to explain things simply. Always learning, always building, always helping.
 
@@ -31,7 +32,7 @@ I love making tech easier to understand and enjoy using analogies to explain thi
 ---
 
 ## 🔭 Currently Working On
-My **Web Class Final Project** — stay tuned!
+My **Web Class Final Project** is now completed and uploaded — check it out in my repositories! It's Study4A, a website to help CUNY City Tech students gain an easy A!
 
 ---
 
