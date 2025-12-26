@@ -32,6 +32,9 @@ I love making tech easier to understand and enjoy using analogies to explain thi
 ---
 
 ## 🔭 Currently Working On
+Tetrix - Flutter tetris inspired game. Loading 🚀!
+---
+Update: 
 My **Web Class Final Project** is now completed and uploaded — check it out in my repositories! It's Study4A, a website to help CUNY City Tech students gain an easy A!
 
 ---
