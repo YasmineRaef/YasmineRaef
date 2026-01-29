@@ -44,7 +44,7 @@ My **Web Class Final Project** is now completed and uploaded — check it out in
 - [**Lettuce Chat**](https://github.com/YasmineRaef/Chatting_App): A chat app built with Dart and Flutter.
 - [**NodeJS Learning**](https://github.com/YasmineRaef/NodeJS_Learning): My personal journey learning Node.js and Express.
 
-📄 [**Check out my resume**]([Yasmine_Mohamed_resume.pdf](https://github.com/user-attachments/files/24925661/Yasmine_Mohamed_resume.pdf)
+📄 **Check out my resume**:[Yasmine_Mohamed_resume.pdf](https://github.com/user-attachments/files/24925661/Yasmine_Mohamed_resume.pdf)
 
 ---
 
