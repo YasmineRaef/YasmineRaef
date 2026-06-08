@@ -10,11 +10,20 @@ I’ve been learning to code in:
 - **C++**
 - **HTML**, **CSS**, and **JavaScript**
 
-I was recently **accepted into the CUNY Spring Forward internship program** 🎉  
-I’m currently interning with The Difference App under the supervision of our amazing **CEO Peter Conroy** and **CTO Kelvin Sparks**.✨🚀 
-It has been a little over a month now and I am very happy with all the experience I gained so far! From the dedicated and helping core developers to the guidance and encorougment of both our CEO and CTO, evrything is just perfect. Can't want to see what else I will learn from this amazing oppotunity! 
+Big updates in my tech journey!🚀
 
-I love making tech easier to understand and enjoy using analogies to explain things simply. Always learning, always building, always helping. 
+🤝 I was honored to be part of the CUNY Spring Forward internship program, where I interned with The Difference App under the amazing leadership of **Peter Conroy (CEO)** and **Kelvin Sparks (CTO)**. That internship meant so much to me. The team was welcoming from day one, the developers were incredibly supportive, and the environment pushed me to grow fast. It was the kind of first internship people dream of.
+Although I had to end my internship early due to personal family matters, I’m deeply grateful for every moment I spent there. The Difference shaped my confidence, my skills, and my understanding of what a strong tech culture looks like.
+
+🆕 ***Fast‑forward to now:*** I just completed my first week of the TTPR intensive training, and *wow*, it’s been amazing. I’ve been installing tools I never knew I needed (hello WSL, my new best friend), exploring the CLI like never before, and mastering the ins and outs of GitHub’s entire environment.
+This program is packed with everything I want to grow in:
+- React
+- Full‑stack Web & Mobile development
+- QA testing
+- AI methodologies
+- Soft‑skills training like collaboration, resume building, pitch refinement, and networking preparation
+
+*I’m excited, motivated, and can't wait to see what else I will learn from the **TTPR** training. Will keep you updated!* 
 
 ---
 
