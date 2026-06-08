@@ -1,14 +1,14 @@
 ![Banner](https://github.com/user-attachments/assets/0f44d001-cfc1-49f6-939b-28c2749bfaf7)
 # 👋 Hi there, I'm Yasmine Raef Mohamed
 
-I graduated high school in **Cairo, Egypt**, and now I’m a **sophomore at CityTech, NY**, majoring in **Computer Systems Technology** with a **3.98 GPA**.
+I graduated high school from **Dr.Ahmed Zewail Experimental Language School, Banha, Egypt**, and now I’m a **Junior at CityTech, NY**, majoring in **Computer Systems Technology** with a **3.98 GPA**.
 
 I’ve been learning to code in:
 - **Dart**
 - **Python**
 - **Java**
 - **C++**
-- **HTML**, **CSS**, and **JavaScript**
+- **HTML**, **CSS**, **JavaScript**, and **PHP**
 
 Big updates in my tech journey!🚀
 
