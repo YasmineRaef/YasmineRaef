@@ -53,7 +53,8 @@ I was accepted in the TTP residency program with CUNY2x for this summer 2026 at 
 - [**Lettuce Chat**](https://github.com/YasmineRaef/Chatting_App): A chat app built with Dart and Flutter.
 - [**NodeJS Learning**](https://github.com/YasmineRaef/NodeJS_Learning): My personal journey learning Node.js and Express.
 
-📄 **Check out my resume**:[Yasmine_Mohamed_resume.pdf](https://github.com/user-attachments/files/25653589/Yasmine_Mohamed_resume.pdf)
+📄 **Check out my resume**: [Yasmine_Mohamed_resume.pdf](https://github.com/user-attachments/files/28917609/Yasmine_Mohamed_resume.pdf)
+
 
 ---
 
