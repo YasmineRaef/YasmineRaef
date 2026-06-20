@@ -41,7 +41,7 @@ This program is packed with everything I want to grow in:
 
 ## 🔭 Currently Working On
 
-- Developing and adding new features with The Difference App!🔃🚀
+- Learning new technical topics with TTP and creating new projects...
 ---
 ## 🆕 Current Updates:
 I was accepted in the TTP residency program with CUNY2x for this summer 2026 at CityTech, a 12-week intensive program where I will be learning Agile methodologies, QA testing, React, Data Visualization and Automation and Full-Stack, Mobile & Web development! Can't wait to start!🤩🤩😁
